@@ -1,4 +1,4 @@
-# Django React BookStore Application
+# Django Hotel Booking Application
 
 The application is Developed by following Features:
 
